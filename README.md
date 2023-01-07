@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m current ly working on  Selenium testing    
-- 🌱 I’m currently leaerning Selenium testinin nasıl yapıldıgını
+- 🌱I’m currently learning how to test Selenium
 - 📫 How to reach me: 
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <br />
 
 [linkedin]: https://www.linkedin.com/in/muhammed-yasir-dindar-04b153255/
-[gmail]: mailto:demiribrahimtalha@gmail.com
+[gmail]: mailto:myasirdindar@gmail.com
 [github]: https://github.com/YasirDindar/YasirDindar
 <br />
 
