@@ -26,12 +26,6 @@ Here are some ideas to get you started:
 <h3 align="left" dir="auto"><a id="user-content-connect-with-me" class="anchor" aria-hidden="true" href="#connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><a id="user-content-connect-with-me" href="#connect-with-me"></a>Connect with me:</h3>
 
 
-
-
-
-
-
-
 <p align="left" dir="auto">
 <a href="https://www.linkedin.com/in/muhammed-yasir-dindar-04b153255/" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="yusufdemir34" height="32" width="101" style="max-width: 100%;"></a>
 </p>
@@ -43,6 +37,16 @@ Here are some ideas to get you started:
       <a href="https://www.java.com" rel="nofollow">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="max-width: 100%;">
       </a>
+      <a href="https://cucumber.io/" rel="nofollow">
+        <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cucumber_icon_130657.png"   alt="cucumber" width="40" height="40" style="max-width: 100%;">
+      </a> 
+      <a href="https://junit.org/junit5/" rel="nofollow">
+      <img src="https://user-images.githubusercontent.com/33158051/103466459-7524de80-4d13-11eb-96ba-f13e5409a18a.png"  alt="junit" width="40" height="40"                   style="max-width: 100%;">
+      </a> 
+      <a href="https://testng.org/doc/" rel="nofollow">
+      <img src="https://e7.pngegg.com/pngimages/640/776/png-clipart-testng-logo-software-testing-software-framework-computer-icons-automation-testing-angle-text.png"
+      alt="testng" width="40" height="40"                   style="max-width: 100%;">
+      </a> 
       <a href="https://www.atlassian.com/software/jira" rel="nofollow">
         <img src="https://camo.githubusercontent.com/d719d494d098a065aa4109e33e3537f0b42c1891b3e92edcb858e6690f7dcf56/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f6865766f2f696d6167652f75706c6f61642f635f7363616c652c775f3330302c685f3137382c6470725f322f665f6175746f2c715f6175746f2f76313633373931363331382f6865766f2d6c6561726e2f4a6972612d54657374696e672d4a6972612d6c6f676f2e706e673f5f693d4141" alt="jira" width="40" height="40" style="max-width: 100%;">
       </a>
@@ -51,9 +55,6 @@ Here are some ideas to get you started:
       </a>
       <a href="https://www.w3.org/html/" rel="nofollow">
         <img src="https://camo.githubusercontent.com/18548f9c5fed676b6d9248bc218365ac439bd9e3e69c6f740fe06b61bbf11ced/68747470733a2f2f69302e77702e636f6d2f6373732d747269636b732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30312f68746d6c352d637373332e6a70673f726573697a653d3439382532433234392673736c3d31" alt="html5&amp;css" width="100" height="40" style="max-width: 100%;">
-      </a>
-      <a href="https://postman.com" rel="nofollow">
-        <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="postman" width="40" height="40" style="max-width: 100%;">
       </a>
       <a href="https://www.rapid7.com/fundamentals/software-development-life-cycle-sdlc/" rel="nofollow">
         <img src="https://camo.githubusercontent.com/8897807b5f6c9bd998e25b870beeff1e55f27a8cf223dac41197d9181c8feccf/68747470733a2f2f6f7574736d6172747465616d2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30332f496d6167652d66726f6d2d694f532e6a7067" alt="sdlc" width="40" height="40" style="max-width: 100%;">
