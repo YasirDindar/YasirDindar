@@ -66,6 +66,7 @@ Here are some ideas to get you started:
     <a href="https://www.mysql.com/"   rel="nofollow">
        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png"   alt="mysql" width="50" height="50" style="max-width: 100%;">  
       </a>  
+      <p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/267d14e06e7ca995e3baa51337849f79ca9d87e5a7e04af1c69018499e2059c0/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6265726174746f6e266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/267d14e06e7ca995e3baa51337849f79ca9d87e5a7e04af1c69018499e2059c0/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6265726174746f6e266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="YasirDindar" data-canonical-src="https://komarev.com/ghpvc/?username=YasirDindar&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
     </p>
 
   
