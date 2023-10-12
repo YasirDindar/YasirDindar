@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m current ly working on  Selenium testing    
-- 🌱I’m currently learning how to test Selenium
+- 🌱 I perform automation and manual testing
 - 📫 How to reach me: 
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
